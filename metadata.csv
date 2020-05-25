@@ -2,18 +2,18 @@ Declare,metatab-latest
 Title,COVID 19 Statistics San Diego County
 Description,Official COVID-19 statistics for San Diego County.
 Identifier,9135744c-ff4d-4afc-a319-3ef198f25054
-Name,sandiegocounty.gov-covid19-1.1.15
+Name,sandiegocounty.gov-covid19-1.1.18
 Dataset,covid19
 Origin,sandiegocounty.gov
 Variant,
-Version,1.1.15
+Version,1.1.18
 Version.Major,1
 Version.Minor,1
-Version.Patch,15
+Version.Patch,18
 Group,covid19
 Tag,covid19
 Created,2020-04-27T23:04:20
-Modified,2020-05-18T14:49:00
+Modified,2020-05-25T20:35:03
 Updatefrequency,P1D
 Giturl,https://github.com/sandiegodata/covid19.git
 ""
